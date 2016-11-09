@@ -19,12 +19,9 @@
   * Desenho no Mapa
     * Marcador
       * Adicionar um marcador
-      * Tornar um marcador arrastável
       * Personalizar um marcador
       * Eventos de marcador
         * Eventos de clique em marcador
-        * Eventos de arrastar marcador
-  
   
   
   Links
